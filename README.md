@@ -13,11 +13,17 @@ I previously had experience with Java(Android Studio) and C++(Qt) and was involv
 
 ![Zenject](https://img.shields.io/badge/-Zenject-090909?style=for-the-badge&logo=unity&logoColor=BCDB1A)
 ![UniRx](https://img.shields.io/badge/-UniRx-090909?style=for-the-badge&logo=unity&logoColor=F7A126)
-![Mirror/Photon/Playfab](https://img.shields.io/badge/-Mirror/Photon-090909?style=for-the-badge&logo=unity&logoColor=7E4DD2)
+![Mirror/Photon](https://img.shields.io/badge/-Mirror/Photon-090909?style=for-the-badge&logo=unity&logoColor=7E4DD2)
+![Playfab](https://img.shields.io/badge/-Mirror/Photon-090909?style=for-the-badge&logo=unity&logoColor=7E4DD2)
 
 ![Leo ECS](https://img.shields.io/badge/-Leo_ECS-090909?style=for-the-badge&logo=unity&logoColor=4092FE)
 ![Leo ECS Lite](https://img.shields.io/badge/-Leo_ECS_Lite-090909?style=for-the-badge&logo=unity&logoColor=37E1FF)
 ![MV* Patterns](https://img.shields.io/badge/-MV*_Patterns-090909?style=for-the-badge&logo=unity&logoColor=A2EBD7)
+
+![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)
+![AppMetrica](https://img.shields.io/badge/-App_Metrica-090909?style=for-the-badge&logo=unity)
+![AppsFlyer](https://img.shields.io/badge/-Apps_Flyer-090909?style=for-the-badge&logo=unity)
+![GameAnalytics](https://img.shields.io/badge/-Game_Analytics-090909?style=for-the-badge&logo=unity)
 
 ### My Own Games
 [![My Games](https://img.shields.io/badge/-My_Games-090909?style=for-the-badge&logo=Notion)](https://illustrious-expert-43a.notion.site/My-Games-7b1d46d58fce45e4840aa71aafee7046?pvs=4)
