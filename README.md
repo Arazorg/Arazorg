@@ -29,6 +29,7 @@ I previously had experience with Java(Android Studio) and C++(Qt) and was involv
 
 ### Games I Worked On
 [![The Last Warrior!](https://img.shields.io/badge/-The_Last_Warrior-090909?style=for-the-badge&logo=AppStore)](https://apps.apple.com/gd/app/the-last-warrior/id6444162261)
+[![The Catapult!](https://img.shields.io/badge/-The_Last_Warrior-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.byv.theships)
 [![Dice and Raids](https://img.shields.io/badge/-Dice_And_Raids-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ValentinKlimenko.DiceandRaids)
 [![Merge Superheroes](https://img.shields.io/badge/-Merge_Superheroes-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ValentinKlimenko.MergeSuperheroes)
 
