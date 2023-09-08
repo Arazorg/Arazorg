@@ -8,15 +8,16 @@
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=B9CDFD)
 ![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF6666)
 
-![Leo ECS](https://img.shields.io/badge/-Leo_ECS-090909?style=for-the-badge&logo=unity&logoColor=4092FE)
-![Leo ECS Lite](https://img.shields.io/badge/-Leo_ECS_Lite-090909?style=for-the-badge&logo=unity&logoColor=37E1FF)
-![MV* Patterns](https://img.shields.io/badge/-MV*_Patterns-090909?style=for-the-badge&logo=unity&logoColor=A2EBD7)
-
 ![Zenject](https://img.shields.io/badge/-Zenject-090909?style=for-the-badge&logo=unity&logoColor=BCDB1A)
 ![UniRx](https://img.shields.io/badge/-UniRx-090909?style=for-the-badge&logo=unity&logoColor=F7A126)
 ![Mirror/Photon](https://img.shields.io/badge/-Mirror/Photon-090909?style=for-the-badge&logo=unity&logoColor=7E4DD2)
 
+![Leo ECS](https://img.shields.io/badge/-Leo_ECS-090909?style=for-the-badge&logo=unity&logoColor=4092FE)
+![Leo ECS Lite](https://img.shields.io/badge/-Leo_ECS_Lite-090909?style=for-the-badge&logo=unity&logoColor=37E1FF)
+![MV* Patterns](https://img.shields.io/badge/-MV*_Patterns-090909?style=for-the-badge&logo=unity&logoColor=A2EBD7)
+
 ### My Own Games
+[![My Games](https://img.shields.io/badge/-More_Projects-090909?style=for-the-badge&logo=Notion)](https://illustrious-expert-43a.notion.site/My-Games-7b1d46d58fce45e4840aa71aafee7046?pvs=4)
 
 ### Games I Worked On
 [![The Last Warrior!](https://img.shields.io/badge/-The_Last_Warrior-090909?style=for-the-badge&logo=AppStore)](https://apps.apple.com/gd/app/the-last-warrior/id6444162261)
