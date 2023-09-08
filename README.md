@@ -28,17 +28,17 @@
 ### My GitHub Projects
 [![Leo_ECS_Base_Project](https://img.shields.io/badge/-Leo_ECS_Base_Project-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/Arazorg/LeoECSBaseProject)
 
-### Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/arazorg/)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://instagram.com/_arazorg/)
-
 ### Courses
-[![Unity](https://img.shields.io/badge/-KSyndicate_Architecture_Vanilla-090909?style=for-the-badge&logo=unity&logoColor=B9CDFD)](https://lms.k-syndicate.school/architecture-unity-games/)
+[![Unity](https://img.shields.io/badge/-KSyndicate_Vanilla_Architecture-090909?style=for-the-badge&logo=unity)](https://lms.k-syndicate.school/architecture-unity-games/)
 
 [![CSharp](https://img.shields.io/badge/-Ulearn.me_1-090909?style=for-the-badge&logo=csharp&logoColor=B9CDFD)](https://ulearn.me/Course/BasicProgramming/Kratkaya_spravka_pered_nachalom_69a2e121-e58f-4cd0-8221-7affb7dc796e)
 [![CSharp](https://img.shields.io/badge/-Ulearn.me_2-090909?style=for-the-badge&logo=csharp&logoColor=B9CDFD)](https://ulearn.me/Course/BasicProgramming2/Steki_i_ocheredi_48016626-87ae-411d-ae97-f7a49e465dbc)
 [![CSharp](https://img.shields.io/badge/-Ulearn.me_3-090909?style=for-the-badge&logo=csharp&logoColor=B9CDFD)](https://ulearn.me/Course/CS2/Vvedenie_7df81bac-f52c-4219-8663-4d215bafbc7a)
 
 [![MVC](https://img.shields.io/badge/-MVC_Udemy-090909?style=for-the-badge&logo=unity&logoColor=B9CDFD)](https://www.udemy.com/course/mvc-architecture-for-unity/)
+
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/arazorg/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://instagram.com/_arazorg/)
 
 
