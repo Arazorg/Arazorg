@@ -9,8 +9,12 @@
 ### My Own Games
 
 ### Games I Worked On
-[![The Last Warrior!](https://img.shields.io/badge/-Pocket_Hero-090909?style=for-the-badge&logo=AppStore)](https://apps.apple.com/gd/app/the-last-warrior/id6444162261)
- 
+[![The Last Warrior!](https://img.shields.io/badge/-The_Last_Warrior-090909?style=for-the-badge&logo=AppStore)](https://apps.apple.com/gd/app/the-last-warrior/id6444162261)
+[![Dice and Raids](https://img.shields.io/badge/-Dice_And_Raids-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ValentinKlimenko.DiceandRaids)
+[![Merge Superheroes](https://img.shields.io/badge/-Merge_Superheroes-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ValentinKlimenko.MergeSuperheroes)
+[![Fun Race Stairs Run 3D](https://img.shields.io/badge/-Fun_Race_Stairs_Run_3D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ValentynKlymenko.FunRaceStairsRun3D)
+
+
 ### My Open Source GitHub Projects
 
 ### Follow Me
