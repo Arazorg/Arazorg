@@ -5,8 +5,8 @@
 ### Technology Stack
 
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
-![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
-![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
+![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=B9CDFD)
+![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF6666)
 
 ![Leo ECS](https://img.shields.io/badge/-Leo_ECS-090909?style=for-the-badge&logo=unity)
 ![Leo ECS Lite](https://img.shields.io/badge/-Leo_ECS_Lite-090909?style=for-the-badge&logo=unity&logoColor=37E1FF)
