@@ -17,7 +17,7 @@
 ![MV* Patterns](https://img.shields.io/badge/-MV*_Patterns-090909?style=for-the-badge&logo=unity&logoColor=A2EBD7)
 
 ### My Own Games
-[![My Games](https://img.shields.io/badge/-More_Projects-090909?style=for-the-badge&logo=Notion)](https://illustrious-expert-43a.notion.site/My-Games-7b1d46d58fce45e4840aa71aafee7046?pvs=4)
+[![My Games](https://img.shields.io/badge/-My_Games-090909?style=for-the-badge&logo=Notion)](https://illustrious-expert-43a.notion.site/My-Games-7b1d46d58fce45e4840aa71aafee7046?pvs=4)
 
 ### Games I Worked On
 [![The Last Warrior!](https://img.shields.io/badge/-The_Last_Warrior-090909?style=for-the-badge&logo=AppStore)](https://apps.apple.com/gd/app/the-last-warrior/id6444162261)
