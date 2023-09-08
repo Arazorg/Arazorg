@@ -1,5 +1,9 @@
 ## Hello! I am a Unity Developer
 
+I started learning Unity in March 2021 and began commercial development in December 2021. 
+I am particularly interested in game architecture, especially ECS (Entity Component System), and optimization. 
+I previously had experience with Java and C++ and was involved in competitive programming, but my love for games led me to change my career path.
+
 [![CV](https://img.shields.io/badge/-CV_Artem_Zhitkov_-090909?style=for-the-badge&logo=read.cv)](https://illustrious-expert-43a.notion.site/Artem-Zhitkov-Certain-View-165b3f5c4de548b28eef1c0fa3ddbac1?pvs=4)
 
 ### Technology Stack
