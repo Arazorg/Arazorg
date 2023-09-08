@@ -14,7 +14,7 @@
 [![The Last Warrior!](https://img.shields.io/badge/-The_Last_Warrior-090909?style=for-the-badge&logo=AppStore)](https://apps.apple.com/gd/app/the-last-warrior/id6444162261)
 [![Dice and Raids](https://img.shields.io/badge/-Dice_And_Raids-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ValentinKlimenko.DiceandRaids)
 [![Merge Superheroes](https://img.shields.io/badge/-Merge_Superheroes-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ValentinKlimenko.MergeSuperheroes)
-[![Fun Race Stairs Run 3D](https://img.shields.io/badge/-Fun_Race_Stairs_Run_3D-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=com.ValentynKlymenko.FunRaceStairsRun3D)
+[![More Projects](https://img.shields.io/badge/-More_Projects-090909?style=for-the-badge&logo=Notion)](https://illustrious-expert-43a.notion.site/Projects-c9fe9481a4e542e78729f4ade7a1bea8?pvs=4)
 
 
 ### My GitHub Projects
