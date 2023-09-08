@@ -1,6 +1,6 @@
 ## Hello! I am a Unity Developer
 
-[![CV](https://img.shields.io/badge/-CV_Artem_Zhitkov_-090909?style=for-the-badge&logo=GoogleMessages)](https://illustrious-expert-43a.notion.site/Artem-Zhitkov-Certain-View-165b3f5c4de548b28eef1c0fa3ddbac1?pvs=4)
+[![CV](https://img.shields.io/badge/-CV_Artem_Zhitkov_-090909?style=for-the-badge&logo=read.cv)](https://illustrious-expert-43a.notion.site/Artem-Zhitkov-Certain-View-165b3f5c4de548b28eef1c0fa3ddbac1?pvs=4)
 
 ### Technology Stack
 
