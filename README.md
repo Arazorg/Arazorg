@@ -21,7 +21,7 @@ I previously had experience with Java(Android Studio) and C++(Qt) and was involv
 
 ![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook)
 ![AppMetrica](https://img.shields.io/badge/-App_Metrica-090909?style=for-the-badge&logo=unity)
-![AppsFlyer](https://img.shields.io/badge/-Apps_Flyer-090909?style=for-the-badge&logo=unity)
+![AppsFlyer](https://img.shields.io/badge/-AppsFlyer-090909?style=for-the-badge&logo=unity)
 ![GameAnalytics](https://img.shields.io/badge/-Game_Analytics-090909?style=for-the-badge&logo=unity)
 
 ### My Own Games
