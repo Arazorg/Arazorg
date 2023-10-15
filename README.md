@@ -50,6 +50,6 @@ I previously had experience with Java(Android Studio) and C++(Qt) and was involv
 [![UI Toolkit](https://img.shields.io/badge/-UI_Toolkit-090909?style=for-the-badge&logo=unity&logoColor=B9CDFD)](https://www.udemy.com/course/modern-unity-ui-with-ui-toolkit)
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/arazorg/)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://instagram.com/_arazorg/)
+[![Instagram](https://img.shields.io/badge/-Instagram-030903?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://instagram.com/_arazorg/)
 
 
