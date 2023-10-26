@@ -8,7 +8,7 @@ I previously had experience with Java(Android Studio) and C++(Qt) and was involv
 
 ### Technology Stack
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
-![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=B9CDFD)
+![CSharp](https://img.shields.io/badge/-CSharp-150578?style=for-the-badge&logo=csharp&logoColor=B9CDFD)
 ![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF6666)
 
 ![Zenject](https://img.shields.io/badge/-Zenject-090909?style=for-the-badge&logo=unity&logoColor=BCDB1A)
