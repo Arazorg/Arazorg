@@ -13,7 +13,9 @@ I previously had experience with Java(Android Studio) and C++(Qt) and was involv
 
 ![Zenject](https://img.shields.io/badge/-Zenject-011e38?style=for-the-badge&logo=unity&logoColor=BCDB1A)
 ![UniRx](https://img.shields.io/badge/-UniRx-011e38?style=for-the-badge&logo=unity&logoColor=F7A126)
-![Mirror/Photon/Playfub/LiveNetLib](https://img.shields.io/badge/-Mirror/Photon/LiveNetLib/Playfab-011e38?style=for-the-badge&logo=unity&logoColor=7E4DD2)
+![Mirror/Photon/LiveNetLib](https://img.shields.io/badge/-Mirror/Photon/LiveNetLib-011e38?style=for-the-badge&logo=unity&logoColor=7E4DD2)
+![Playfab](https://img.shields.io/badge/-Playfab-011e38?style=for-the-badge&logo=unity&logoColor=7E4DD2)
+
 
 ![Leo ECS](https://img.shields.io/badge/-Leo_ECS-011e38?style=for-the-badge&logo=unity&logoColor=4092FE)
 ![Leo ECS Lite](https://img.shields.io/badge/-Leo_ECS_Lite-011e38?style=for-the-badge&logo=unity&logoColor=37E1FF)
