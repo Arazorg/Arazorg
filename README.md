@@ -6,6 +6,5 @@ I previously had experience with Java(Android Studio) and C++(Qt) and was involv
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-011e38?style=for-the-badge&logo=telegram)](https://t.me/arazorg/)
-[![Instagram](https://img.shields.io/badge/-Instagram-011e38?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://instagram.com/_arazorg/)
 
 
